@@ -20,7 +20,7 @@ params:
   title: Bella's Blog
   description: "Bella's Blog"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Matthew Coleman
+  author: Bella Hubble
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -58,7 +58,7 @@ params:
 
   profileMode:
     enabled: false # needs to be explicitly set
-    title: Matthew's Blog
+    title: Bella's Blog
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
     imageWidth: 120
