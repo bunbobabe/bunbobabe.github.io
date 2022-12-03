@@ -1,6 +1,6 @@
 
-baseURL: "https://msc5.github.io"
-title: Matthew's Blog
+baseURL: "https://bunbobabe.github.io"
+title: Bella's Blog
 
 paginate: 5
 theme: PaperMod
@@ -17,8 +17,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Matthew's Blog
-  description: "Matthew's Blog"
+  title: Bella's Blog
+  description: "Bella's Blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: Matthew Coleman
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -72,12 +72,11 @@ params:
 
   homeInfoParams:
     Title: "Howdy \U0001F44B"
-    Content: Hi, I'm Matthew Coleman. I'm an AI researcher and an undergraduate at Princeton. 
-      I'll post here about my favorite AI and some of the projects that I've done in the past.
+    Content: bella's blog! :)
 
   socialIcons:
     - name: github
-      url: "https://github.com/msc5?tab=repositories"
+      url: "https://github.com/bunbobabe?tab=repositories"
 
   analytics:
     google:
@@ -107,16 +106,16 @@ params:
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
 
-# menu:
-#   main:
+menu:
+   main:
 #     - identifier: categories
 #       name: categories
 #       url: /categories/
 #       weight: 10
-#     - identifier: tags
-#       name: tags
-#       url: /tags/
-#       weight: 20
+     - identifier: tags
+       name: tags
+       url: /tags/
+       weight: 20
 #     - identifier: example
 #       name: example.org
 #       url: https://example.org
