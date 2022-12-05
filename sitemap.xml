@@ -2,16 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bunbobabe.github.io/about/</loc>
+  </url><url>
+    <loc>https://bunbobabe.github.io/guiding/</loc>
+  </url><url>
+    <loc>https://bunbobabe.github.io/references/</loc>
+  </url><url>
     <loc>https://bunbobabe.github.io/</loc>
-    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bunbobabe.github.io/posts/</loc>
-    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+    <loc>https://bunbobabe.github.io/tags/body-shaming/</loc>
   </url><url>
-    <loc>https://bunbobabe.github.io/posts/test_post_bella/</loc>
-    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+    <loc>https://bunbobabe.github.io/tags/borders/resistance/</loc>
   </url><url>
     <loc>https://bunbobabe.github.io/categories/</loc>
+  </url><url>
+    <loc>https://bunbobabe.github.io/tags/culture/family/</loc>
+  </url><url>
+    <loc>https://bunbobabe.github.io/tags/gender-roles/</loc>
+  </url><url>
+    <loc>https://bunbobabe.github.io/posts/</loc>
+  </url><url>
+    <loc>https://bunbobabe.github.io/posts/post_1/</loc>
   </url><url>
     <loc>https://bunbobabe.github.io/tags/</loc>
   </url>
