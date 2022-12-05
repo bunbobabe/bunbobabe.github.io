@@ -13,5 +13,3 @@ In this scene, Ana comes to work at Estella’s factory for the first time. Ana 
 ![Example image](/imgs/scene2_1.png)
 
 Later on, the workers begin to exchange chismes, or gossip, with each other. In an act of “spilling tea,” Carmen shares that Dorado Ortiz, a local man, is in love with Rosalí, one of the employees at the factory. Carmen in this regard says, “he would love to fatten you up, but don’t get as fat as Ana” (00:18:23). Fed up with these comments, Ana runs out of the factory, and her mom chases her. Carmen cannot chase her for long, for she collapses with exhaustion. She bemoans to Ana that she’s too tired to do the factory work nowadays: her hands are arthritic and she’s losing her eyesight. Speaking to her in Spanish, Carmen says to Ana [translated]: “Are you ashamed to work with us? So much hard work. So much sacrifice. And all for what? For you two. You just think I’m a dog that’s only good for working” (00:20:16). 
-
-![Example image](/imgs/scene2_2.png)
