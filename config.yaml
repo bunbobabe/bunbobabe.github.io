@@ -69,10 +69,10 @@ params:
         url: posts
       - name: Tags
         url: tags
-
+`
   homeInfoParams:
-    Title: "Howdy \U0001F44B"
-    Content: bella's blog! :)
+    Title: "*Real Women Have Curves* (2002) - A Viewer's Guide"
+    Content: "Hello and welcome to my blog! My name is Bella, and I am an undergraduate student at Princeton University. I am a student in LAO 201: Intro to Latinx/o/a Studies, and this blog is my final digital project for the course. This blog serves as a guide and place of discussion for the 2002 movie Real Women Have Curves. I hope you find it interesting and informative!"
 
   socialIcons:
     - name: github
@@ -108,18 +108,23 @@ params:
 
 menu:
    main:
-#     - identifier: categories
-#       name: categories
-#       url: /categories/
-#       weight: 10
      - identifier: tags
-       name: tags
+       name: Tags
        url: /tags/
        weight: 20
-#     - identifier: example
-#       name: example.org
-#       url: https://example.org
-#       weight: 30
+     - identifier: about
+       name: About the Movie
+       url: /about/
+       weight: 20
+     - identifier: guiding
+       name: Guiding Questions
+       url: /guiding/
+       weight: 20
+     - identifier: references
+       name: References
+       url: /references/
+       weight: 20
+
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 
@@ -132,4 +137,8 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+taxonomies:
+  category: categories
+  tag: tags
 
