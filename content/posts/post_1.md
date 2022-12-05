@@ -16,4 +16,6 @@ In this scene, Ana comes back from her last day of high school to see that her f
 
 Later in the evening, Ana’s mom and dad are shown discussing her college education privately in their bedroom. The dad is shown displaying open-mindedness to the idea of Ana going to college whereas Ana’s mom is obstinately against the idea. Carmen goes on a brief spiel in Spanish, saying [translated] “I can educate her. I can teach her to sew. I can teach her to raise her kids. Tend to her husband. They’re not going to teach her those things in college…It’s a question of principles. It’s just not fair. I’ve worked since I was 13 years old. Ana is 18 years old. It’s her turn now” (00:10:15-00:10:31).
 
+![Example image](/imgs/scene1_2.png)
+
 

@@ -1,10 +1,5 @@
 ---
-title: "About the Movie"
+title: "References"
 date: 2022-12-5
 draft: false
 ---
-
-list
-- a
-- b
-- c
