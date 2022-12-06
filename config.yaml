@@ -74,9 +74,9 @@ params:
     Title: "*Real Women Have Curves* (2002) - A Viewer's Guide"
     Content: "Hello and welcome to my blog! My name is Bella, and I am an undergraduate student at Princeton University. I am a student in LAO 201: Intro to Latinx/o/a Studies, and this blog is my final digital project for the course. This blog serves as a guide and place of discussion for the 2002 movie Real Women Have Curves. I hope you find it interesting and informative!"
 
-  socialIcons:
-    - name: github
-      url: "https://github.com/bunbobabe?tab=repositories"
+ # socialIcons:
+ #   - name: github
+ #     url: "https://github.com/bunbobabe?tab=repositories"
 
   analytics:
     google:
