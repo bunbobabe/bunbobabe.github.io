@@ -3,7 +3,7 @@ baseURL: "https://bunbobabe.github.io"
 title: Bella's Blog
 
 paginate: 5
-theme: PaperMod
+theme: hugo-serif-theme
 
 enableRobotsTXT: true
 buildDrafts: false

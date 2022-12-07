@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Body Shaming on Bella&#39;s Blog</title>
-    <link>https://bunbobabe.github.io/tags/body-shaming/</link>
-    <description>Recent content in Body Shaming on Bella&#39;s Blog</description>
-    <image>
-      <url>https://bunbobabe.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://bunbobabe.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://bunbobabe.github.io/tags/body-shaming/index.xml" rel="self" type="application/rss+xml" />
+    <title>Body Shaming on Hugo Serif Theme</title>
+    <link>/tags/body-shaming/</link>
+    <description>Recent content in Body Shaming on Hugo Serif Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/tags/body-shaming/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Scene Analysis: Can’t you see she’s bigger than the cake?</title>
-      <link>https://bunbobabe.github.io/posts/post_1/</link>
+      <title>Scene Analysis: Ana’s first day in Estella’s factory</title>
+      <link>/posts/post_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bunbobabe.github.io/posts/post_1/</guid>
+      <guid>/posts/post_2/</guid>
+      <description>In this scene, Ana comes to work at Estella’s factory for the first time. Ana begins to admire one of Estella’s dresses, to which her mom remarks “You’ll never fit into that one. It’s a size 7” (00:13:31). Two workers in the factory, Norma and Panchita, enter and are introduced to Ana. Carmen makes a fat-shaming comment to Panchita, which is poorly received. In general, the atmosphere in the factory and between the workers is tense, hostile, and unfriendly.</description>
+    </item>
+    
+    <item>
+      <title>Scene Analysis: Can’t you see she’s bigger than the cake?</title>
+      <link>/posts/post_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/post_1/</guid>
       <description>In this scene, Ana comes back from her last day of high school to see that her family has thrown her a surprise graduation party. Ana’s dad offers her some cake, to which Ana’s mother, Carmen, replies, “can’t you see she’s bigger than the cake?” in Spanish (00:007:28). This is the first of a slew of body-shaming remarks that the mom makes against Ana’s weight and body shape. The parents then ask Ana why she quit her job at a fast food restaurant, which viewers saw in a previous scene, and the mom says Ana will come to work in her sister, Estella’s, dress-making factory.</description>
     </item>
     

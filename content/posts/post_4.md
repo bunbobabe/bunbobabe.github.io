@@ -1,5 +1,5 @@
 ---
-title: "Scene Analysis: _Difundiendo chismes_"
+title: "Scene Analysis: Difundiendo chismes"
 date: 2022-12-5
 draft: false
 tags:
