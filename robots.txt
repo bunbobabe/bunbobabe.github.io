@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://bunbobabe.github.io/sitemap.xml
