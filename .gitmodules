@@ -1,3 +1,9 @@
 [submodule "themes/PaperMod"] 
    path = themes/PaperMod
    url = https://github.com/adityatelange/hugo-PaperMod
+[submodule "themes/hugo-serif-theme"]
+	path = themes/hugo-serif-theme
+	url = https://github.com/zerostaticthemes/hugo-serif-theme.git
+[submodule "neofeed-theme"]
+	path = neofeed-theme
+	url = https://github.com/victoriadrake/neofeed-theme.git
