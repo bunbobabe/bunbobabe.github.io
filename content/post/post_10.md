@@ -1,6 +1,6 @@
 ---
 title: "Scene 10: Stretch marks, cellulite, and real women"
-date: 2022-12-5
+date: '2022-12-09'
 draft: false
 tags:
     - Borders/Resistance

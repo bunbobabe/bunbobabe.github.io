@@ -1,11 +1,3 @@
----
-title: 'References'
-date: 2022-12-5
-draft: false
-bibliography: references.bib
-nocite: '@*'
----
-
 “FILM REVIEW; Sweatshop or College? Guess Which One Mom’s Pushing.” 2002. _The New York Times_, October, 13.
 <https://www.nytimes.com/2002/10/18/movies/film-review-sweatshop-or-college-guess-which-one-mom-s-pushing.html>.
 

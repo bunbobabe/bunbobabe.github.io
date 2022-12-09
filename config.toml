@@ -1,0 +1,69 @@
+DefaultContentLanguage = "en"
+author = "Bella Hubble"
+baseURL = "https://bunbobabe.github.io/"
+copyright = "Copyright © 2022"
+disqusShortname = "bunbobabe"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+googleAnalytics = "UA-FAKE" ## or "G-xxxxxxxx" in Google Analytics v4, in hugo v0.82+
+hasCJKLanguage = true
+languageCode = "cn"
+theme = "hugo-theme-tokiwa"
+title = "Real Women Have Curves (2002) - A Viewer's Guide \U0001F4FD"
+
+extensions = [
+  "laxHtmlBlocks", # laxer block handling... let's see what this does?
+  "hardLineBreak", # newlines result in line breaks
+]
+
+[markup]
+[markup.highlight]
+style = "monokailight"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+	description = """ Hello and welcome to my blog! My name is Bella, and I am an undergraduate student at Princeton University. I am a student in LAO 201: Intro to Latinx/o/a Studies, and this blog is my final digital project for the course. This blog serves as a guide and place of discussion for the 2002 movie Real Women Have Curves. I hope you find it interesting and informative!"""
+	math = true # for introducing $KaTEX$
+	env = "production" # for Google Analytics and DISQUS.
+	useChineseFonts = false # for font Noto Serif etc.
+	# bannerFont = "fonts/exampleFont" # custom your own font for the title.
+	postDateFormat = "2006-1-2" # override custom date format posts.
+
+[menu]
+# Shown in the side menu.
+  [[menu.main]]
+    name = "Home"
+    weight = 1
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+	identifier = "about"
+	name = "About the Movie"
+	url = "/about/"
+	weight = 3
+  [[menu.main]]
+	identifier = "guiding"
+	name = "Guiding Questions"
+	url = "/guiding/"
+	weight = 4
+  [[menu.main]]
+    identifier = "references"
+    name = "References"
+    url = "/references/"
+    weight = 5
+
+# [social]
+# instagram="http://example.com/"
+# bilibili="http://example.com/"
+# weibo="http://example.com/"
+# zhihu="http://example.com/"
+# twitter="http://twitter.com/"
+# gitlab="http://gitlab.com/"
+# youtube="http://youtube.com/"
+# github="http://github.com/"
