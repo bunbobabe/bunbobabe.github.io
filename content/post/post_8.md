@@ -1,6 +1,6 @@
 ---
 title: "Scene 8: Cigars and Condoms"
-date: 2022-12-5
+date: 2022-12-07
 draft: false
 tags:
     - Borders/Resistance

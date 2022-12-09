@@ -1,6 +1,6 @@
 ---
-title: "Meeting Latina Girlboss (?) Mrs. Glass"
-date: 2022-12-5
+title: "Scene 6: Meeting Latina Girlboss (?) Mrs. Glass"
+date: 2022-12-06
 draft: false
 tags:
     - Borders/Resistance

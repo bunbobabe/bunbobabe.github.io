@@ -1,6 +1,6 @@
 ---
-title: "Ana gets into Columbia"
-date: 2022-12-5
+title: "Scene 7: Ana gets into Columbia"
+date: 2022-12-06
 draft: false
 tags:
     - Culture/Family

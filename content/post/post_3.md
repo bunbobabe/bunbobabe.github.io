@@ -1,6 +1,6 @@
 ---
-title: 'Ana’s first day in Estella’s factory'
-date: 2022-12-5
+title: 'Scene 3: Ana’s first day in Estella’s factory'
+date: 2022-12-05
 draft: false
 tags:
     - Culture/Family

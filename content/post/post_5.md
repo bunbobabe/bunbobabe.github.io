@@ -1,6 +1,6 @@
 ---
-title: "Difundiendo chismes"
-date: 2022-12-5
+title: "Scene 5: Difundiendo chismes"
+date: 2022-12-06
 draft: false
 tags:
     - Culture/Family

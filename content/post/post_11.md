@@ -1,6 +1,6 @@
 ---
 title: "Scene 11: Ana goes off to college"
-date: 2022-12-5
+date: 2022-12-08
 draft: false
 tags:
     - Borders/Resistance
