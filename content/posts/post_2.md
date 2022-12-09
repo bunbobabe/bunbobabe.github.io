@@ -1,15 +1,14 @@
 ---
-title: "Scene Analysis: Ana’s first day in Estella’s factory"
+title: "Ahora le toca a ella"
 date: 2022-12-5
 draft: false
 tags:
-    - Culture/Family 
-    - Borders/Resistance
-    - Body Shaming
+    - Gender Roles
+    - Culture/Family
 ---
 
-In this scene, Ana comes to work at Estella’s factory for the first time. Ana begins to admire one of Estella’s dresses, to which her mom remarks “You’ll never fit into that one. It’s a size 7” (00:13:31). Two workers in the factory, Norma and Panchita, enter and are introduced to Ana. Carmen makes a fat-shaming comment to Panchita, which is poorly received. In general, the atmosphere in the factory and between the workers is tense, hostile, and unfriendly. As they begin to work, Estella explains that the factory gets paid $18 for each dress they assemble, although Norma explains that the dresses are then sold at Bloomingdale’s for $600, which provokes outrage in Ana (00:17:20). 
+Later in the evening after the graduation party, Ana’s mom and dad are shown discussing her college education privately in their bedroom. The dad is shown displaying open-mindedness to the idea of Ana going to college whereas Ana’s mom is obstinately against the idea. Carmen goes on a brief spiel in Spanish, saying [translated] “I can educate her. I can teach her to sew. I can teach her to raise her kids. Tend to her husband. They’re not going to teach her those things in college…It’s a question of principles. It’s just not fair. I’ve worked since I was 13 years old. Ana is 18 years old. It’s her turn now” (00:10:15-00:10:31).  
 
-![Example image](/imgs/scene2_1.png)
+![Example image](/imgs/scene1_2.png)
 
-Later on, the workers begin to exchange chismes, or gossip, with each other. In an act of “spilling tea,” Carmen shares that Dorado Ortiz, a local man, is in love with Rosalí, one of the employees at the factory. Carmen in this regard says, “he would love to fatten you up, but don’t get as fat as Ana” (00:18:23). Fed up with these comments, Ana runs out of the factory, and her mom chases her. Carmen cannot chase her for long, for she collapses with exhaustion. She bemoans to Ana that she’s too tired to do the factory work nowadays: her hands are arthritic and she’s losing her eyesight. Speaking to her in Spanish, Carmen says to Ana [translated]: “Are you ashamed to work with us? So much hard work. So much sacrifice. And all for what? For you two. You just think I’m a dog that’s only good for working” (00:20:16). 
+This scene is essential to understanding the gender roles and gendered expectations present within this particular Mexican-American family and within Latino families at-large. Sadly enough, women are often agents of patriarchy within Latino households. As Scholar Catherine Leen writes:  “Carmen’s sole opposition to Ana’s plans underlines the fact that…the family matriarch can be more machista than any patriarch” (5). Additionally, when Carmen says “it’s just not fair,” the scene insinuates that Carmen is harboring resentment and jealousy toward Ana since she is being given opportunities she never had the opportunity of pursuing. When Carmen was growing up in Mexico, she likely did not have supportive male figures like Mr. Guzman who encouraged her to obtain an education. Although it’s wrong for her to control Ana’s life, Carmen’s acceptance and perpetuation of gender roles are reflections of patriarchal ideas and systems that are endemic to Latin America and serve to oppress women across generations. For these reasons, Carmen’s resentment toward Ana may also explain why she is always body shaming her. As one movie reviewer writes: “Part of [Carmen’s] impatience with Ana comes from a sense of competition, an element that Ms. Cardoso and the writers, Josefina Lopez and George LaVoo, don't make overly explicit” (Mitchell). 

@@ -1,15 +1,19 @@
 ---
-title: "Scene Analysis: Meeting Latina Girlboss (?) Mrs. Glass"
+title: "Difundiendo chismes"
 date: 2022-12-5
 draft: false
 tags:
-    - Borders/Resistance
+    - Culture/Family
+    - Sexuality
 ---
-Because Estella has lost four seamstresses and is behind on dress production, she is struggling to pay the electricity and rent bills for the factory. Estella is shown emailing Mrs. Glass, the owner of the manufacturing company that buys Estella’s dresses and sells them at Bloomingdale’s, to ask for an advance on the payment for the dresses. Ana is bewildered, asking why Estella is emailing her instead of going to see Mrs. Glass in person. Estella responds timidly, saying Mrs. Glass is too busy to see her. Ana infers that Estella is scared of her, but in the following scene, Ana has convinced Estella to go with her to the corporate office to talk to Mrs. Glass. They catch her in the hallway, and Estella asks about the advance payment. Mrs. Glass responds in a cold manner: “Estella, you know the rules. I can’t pay advances. I went out on a limb to hire you in the first place because I believe a woman like me should help a woman like you. But I can only help you so much. You have to help yourself and meet your deadlines…You have until the end of the month” (42:00). 
+![Example image](/imgs/scene2_2.png)
 
-![Example image](/imgs/scene5_1.png)
+In this scene, Carmen is shown initiating *chismes* with the other factory workers about Norma. It was revealed in a previous scene that Norma had to leave the factory because she was moving back to Mexico to get married. Her two sisters and mother—who also worked in the factory—were moving back to Mexico with her, causing Estella to lose four seamstresses and dress production to greatly slow.  While gossiping, Carmen says that Norma’s fiancé convinced her to have sex with him the night before the wedding, and the following day, the fiancé never showed up to the ceremony. Carmen shames Norma, to which Ana engages in the conversion, and they have the following exchange (00:39:28-00:39:57):
 
-Surprised by Mrs. Glass’ apathy, Ana speaks to her sister in Spanish, saying [translated] “She’s worse than you said.” Mrs. Glass turns around and immediately retorts, saying in unaccented Spanish [translated]:  “Did you say something, Estella?” From this, viewers can infer that Mrs. Glass is likely also Latina.
+> **Ana**: Mom, you’re so old fashioned.\
+> **Mom**: Girls nowadays think they know so much. That’s why they end up panzona.\
+> **Ana**: No mom. The reason they end up pregnant is because they don’t know how to use contraceptives.\
+> **Mom**: Your husband is not going to like you knowing so much…A man wants a virgin.\
+> **Ana**: Why is a woman’s virginity the only thing that matters? A woman has thoughts, ideas, a mind of her own.\
 
-![Example image](/imgs/scene5_2.png)
-
+Here, we see what started as mere *chismes* open up a dialogue regarding sexuality and notions of ‘purity’. Scholars theorize that gossip is “an oral practice of sharing information to affirm and/or police membership in social groups” (Gutierrez 111). Scholar Lizeth Gutierrez goes further to say that these *chismes* scenes within the film allow “immigrant women to create an alternative definition of emotional security that centers community, fights back against patriarchy, and produces feminist knowledge” (111). When Ana joins in the gossip, it is to challenge Carmen’s misconceptions regarding sex and pregnancy as well as renounce the demonization of sex outside of marriage. Here, we see another way in which Ana strays from the norm in how she rejects “the sexual abstinence ideal Latina adolescents receive from their families, communities, and culture” (Guerrero 90). Viewers also learn that gossip is not inherently bad; while it can be used to alienate and demean others, it can also be used to challenge norms and create solidarity. 
